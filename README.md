@@ -9,3 +9,5 @@ have required supplies(leader will provide the list of supplies)
 -[never say never](https://github.com/mustache-cash-stash/operation-cashy)
 ##hello world
 #never
+*hi*
+**hi**
